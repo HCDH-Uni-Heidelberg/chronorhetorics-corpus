@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/last%20updated-2025--05--29-green.svg" alt="Last Updated">
   <img src="https://img.shields.io/badge/DOI-10.5281/zenodo.15548394-orange.svg" alt="DOI">
-  <a href="https://zenodo.org/badge/latestdoi/15548394"><img src="https://zenodo.org/badge/15548394.svg" alt="DOI"></a>
   <img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg" alt="License">
   <img src="https://img.shields.io/badge/languages-DE%20|%20EN-blueviolet.svg" alt="Languages">
 </p>
@@ -268,7 +267,8 @@ For researchers interested in specific political systems or time periods:
 |-----------|-------------|----------|------|
 | **German Political Speeches** | Bundestag debates + Chancellor speeches | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-german-political-speeches.zip) | ~3.44GB |
 | **US Presidential Speeches** | White House remarks (Bush-Biden) | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-us-presidential-speeches.zip) | ~207MB |
-| **UK House of Commons Debates** | House of Commons Hansard | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-uk-house-of-commons-debates.zip) | ~2.1GB |
+| **UK House of Commons Protocols** | House of Commons Hansard | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-uk-house-of-commons-protocols.zip) | ~2.1GB |
+| **Ukrainian Presidential Speeches** | Ukrainian President Zelenskyy speeches | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-ua-zelenskyy-speeches.zip) | ~8.3MB |
 | **Russian Presidential Speeches** | Kremlin transcripts (English) | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-russian-presidential-speeches.zip) | ~122.3MB |
 | **Hitler Speeches** | Hitler speeches (1933-1945) | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-hitler-speeches.zip) | ~2.7MB |
 | **International Conferences** | Munich Security Conference | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-international-conferences.zip) | ~744KB |
@@ -285,8 +285,8 @@ For researchers interested in specific political systems or time periods:
 
 ```bash
 # Download and extract
-wget https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0.zip
-unzip chronorhetorics-corpus-v1.0.zip
+wget https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-all.zip
+unzip chronorhetorics-corpus-v1.0-all.zip
 
 # Basic usage (Python)
 import json
@@ -306,6 +306,8 @@ By downloading and using the corpus, you agree to:
 - Attribute the work when redistributing or creating derivative works
 - Use the data for research, educational, and commercial purposes as permitted under CC BY 4.0
 
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ 
+
 ## Contributors
 
 - **Dr. Florian Nieser** - Heidelberg Center for Digital Humanities (HCDH), Heidelberg University
@@ -323,7 +325,7 @@ If you use this corpus in your research, please cite:
   author={Nieser, Florian and Gaede, Jonathan and Schatz, David and Pietrusky, Stefan},
   year={2025},
   institution={Heidelberg Center for Digital Humanities, Heidelberg University},
-  url={[INSERT_CORPUS_URL]}
+  url={https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-all.zip}
 }
 ```
 
