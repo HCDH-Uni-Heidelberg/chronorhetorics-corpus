@@ -257,21 +257,21 @@ The Chronorhetorics Corpus is available for download through Zenodo:
 
 **Zenodo Repository** (Recommended)
 - **Full Corpus**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15548394.svg)](https://doi.org/10.5281/zenodo.15548394)
-- Direct download: [zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-all.zip](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-all.zip)
+- Direct download: [zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-all.zip](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-all.zip?download=1)
 
 ### Subcorpora
 
 For researchers interested in specific political systems or time periods:
 
-| Subcorpus | Time Coverage | Description | Size |
-|-----------|---------------|-------------|------|
-| **German Political Speeches** | 1949 - March 2025 | Bundestag debates + Chancellor speeches | ~3.44GB |
-| **US Presidential Speeches** | 2003 - March 2025 | White House remarks (Bush-Biden) | ~207MB |
-| **UK House of Commons Protocols** | 1919 - March 2025 | House of Commons Hansard | ~2.1GB |
-| **Ukrainian Presidential Speeches** | 2019 - March 2025 | Ukrainian President Zelenskyy speeches | ~8.3MB |
-| **Russian Presidential Speeches** | 1999 - March 2025 | Kremlin transcripts (English) | ~122.3MB |
-| **Hitler Speeches** | 1933 - 1945 | Hitler speeches from Domarus collections | ~2.7MB |
-| **International Conferences** | 1966 - March 2025 | Munich Security Conference | ~744KB |
+| Subcorpus | Time Coverage | Description | Size | Download |
+|-----------|---------------|-------------|------|----------|
+| **German Political Speeches** | 1949 - March 2025 | Bundestag debates + Chancellor speeches | ~3.44GB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-de-political-speeches.zip?download=1) |
+| **US Presidential Speeches** | 2003 - March 2025 | White House remarks (Bush-Biden) | ~207MB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-us-presidential-speeches.zip?download=1) |
+| **UK House of Commons Protocols** | 1919 - March 2025 | House of Commons Hansard | ~2.1GB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-uk-house-of-commons-protocols.zip?download=1) |
+| **Ukrainian Presidential Speeches** | 2019 - March 2025 | Ukrainian President Zelenskyy speeches | ~8.3MB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-ua-zelenskyy-speeches.zip?download=1) |
+| **Russian Presidential Speeches** | 1999 - March 2025 | Kremlin transcripts (English) | ~122.3MB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-russian-presidential-speeches.zip?download=1) |
+| **Hitler Speeches** | 1933 - 1945 | Hitler speeches from Domarus collections | ~2.7MB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-hitler-speeches.zip?download=1) |
+| **International Conferences** | 1966 - March 2025 | Munich Security Conference | ~744KB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-international-conferences.zip?download=1) |
 
 ### Data Formats
 
