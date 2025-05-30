@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#chronorhetorics-corpus">
-    <img src="./assets/Logo_TB_300.png" alt="Chronorhetorics logo" width="300" height="300">
+    <img src="https://github.com/HCDH-Uni-Heidelberg/chronorhetorics-corpus/blob/main/assets/LOGO_TB_300.png?raw=true" alt="Chronorhetorics logo" width="300" height="300">
   </a>
 </p>
 
