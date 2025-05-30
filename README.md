@@ -109,7 +109,7 @@ The corpus contains various forms of political speeches from multiple official a
 
 ### Temporal Coverage
 
-- **Time span**: 1933 - March 2025
+- **Time span**: 1919 - March 2025
 - **Languages**: German (de), English (en)
 - **Total size**: Over 90% of tokens come from Bundestag and House of Commons speeches
 
