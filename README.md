@@ -266,7 +266,7 @@ For researchers interested in specific political systems or time periods:
 | Subcorpus | Time Coverage | Description | Size | Download |
 |-----------|---------------|-------------|------|----------|
 | **German Political Speeches** | 1949 - March 2025 | Bundestag debates + Chancellor speeches | ~3.44GB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-de-political-speeches.zip?download=1) |
-| **US Presidential Speeches** | 2003 - March 2025 | White House remarks (Bush-Biden) | ~207MB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-us-presidential-speeches.zip?download=1) |
+| **US Presidential Speeches** | 2003 - March 2025 | White House remarks (Bush-Trump) | ~207MB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-us-presidential-speeches.zip?download=1) |
 | **UK House of Commons Protocols** | 1919 - March 2025 | House of Commons Hansard | ~2.1GB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-uk-house-of-commons-protocols.zip?download=1) |
 | **Ukrainian Presidential Speeches** | 2019 - March 2025 | Ukrainian President Zelenskyy speeches | ~8.3MB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-ua-zelenskyy-speeches.zip?download=1) |
 | **Russian Presidential Speeches** | 1999 - March 2025 | Kremlin transcripts (English) | ~122.3MB | [Download](https://zenodo.org/records/15548394/files/chronorhetorics-corpus-v1.0-russian-presidential-speeches.zip?download=1) |
